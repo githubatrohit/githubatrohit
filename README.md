@@ -18,7 +18,7 @@ Thanks for reading this..
 
 [<img align="left" alt="Rohit Raj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Rohit Raj | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
+[<img align="left" alt="Rohit Raj | Hackerrank" width="22px" src="https://www.hackerrank.com/wp-content/uploads/2018/08/hackerrank_logo.png" />][hackerrrank]
 <br />
 
 ### Languages and Tools:
@@ -29,3 +29,4 @@ Thanks for reading this..
 
 [instagram]: https://instagram.com/mafiamamba
 [linkedin]: https://linkedin.com/in/rohit9579
+[hackerrank]: https://www.hackerrank.com/Rohit9579
