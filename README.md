@@ -16,16 +16,16 @@ Thanks for reading this..
 
 ### Connect with me:
 
-[<img align="left" alt="Rohit Raj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin](https://linkedin.com/in/rohit9579)
-[<img align="left" alt="Rohit Raj | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram](https://instagram.com/mafiamamba)
-[<img align="left" alt="Rohit Raj | Hackerrank" width="35px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQk6bNRt-C6xd8_HxZZSARHDKmTFuWzUwWylA&usqp=CAU" />][hackerrank](https://www.hackerrank.com/Rohit9579)
+[<img align="left" alt="Rohit Raj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/rohit9579)
+[<img align="left" alt="Rohit Raj | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://instagram.com/mafiamamba)
+[<img align="left" alt="Rohit Raj | Hackerrank" width="35px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQk6bNRt-C6xd8_HxZZSARHDKmTFuWzUwWylA&usqp=CAU" />](https://www.hackerrank.com/Rohit9579)
 <br />
 
 ### Languages and Tools:
 
-[<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
+<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="35px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <br>
 
 <div align="center">
