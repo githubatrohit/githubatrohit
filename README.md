@@ -30,3 +30,9 @@ Thanks for reading this..
 [instagram]: https://instagram.com/mafiamamba
 [linkedin]: https://linkedin.com/in/rohit9579
 [hackerrank]: https://www.hackerrank.com/Rohit9579
+
+<br>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=mafiamamba&show_icons=true&theme=merlot"/>
+</div>
