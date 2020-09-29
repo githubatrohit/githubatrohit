@@ -31,6 +31,5 @@ Thanks for reading this..
 <br>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mafiamamba"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mafiamamba"/>
+<img src="https://github-readme-stats.vercel.app/api?username=mafiamamba&show_icons=true&theme=dracula"/>
 </div>
