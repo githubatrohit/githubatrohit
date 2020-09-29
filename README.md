@@ -1,7 +1,10 @@
 ### Hi there:wave:
 I'm Rohit:man:
-
 I'm currently pursuing my B.Tech in CSE at KIIT University and would graduate in 2023:vulcan_salute:
+I'm also a self learnt ethical hacker, starting from the Std. 7th, but because of some personal reasons, I was unfortunately unable to practice all those things, and eventually I have lost my knowledge, but still I always hover over to Kali Linux from Windows to just practice and learn more and more.
+I also have a great interest in Graphics Designing and Photography.
+You can also visit my LinkedIn page(Link given Below) to know more about me.
+Thanks for reading this..
 
 
 ## I'm a Programmer, Photographer, Graphic Designer and Musician
