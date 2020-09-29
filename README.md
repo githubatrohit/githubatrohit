@@ -18,7 +18,7 @@ Thanks for reading this..
 
 [<img align="left" alt="Rohit Raj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Rohit Raj | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Rohit Raj | Hackerrank" width="22px" src="https://camo.githubusercontent.com/3ae0c250d0986e14d13c5c5a2166cb4c6ed7e798/68747470733a2f2f692e696d6775722e636f6d2f59516e614b58662e706e67" />][hackerrank]
+[<img align="left" alt="Rohit Raj | Hackerrank" width="50px" src="https://camo.githubusercontent.com/3ae0c250d0986e14d13c5c5a2166cb4c6ed7e798/68747470733a2f2f692e696d6775722e636f6d2f59516e614b58662e706e67" />][hackerrank]
 <br />
 
 ### Languages and Tools:
