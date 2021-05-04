@@ -9,7 +9,7 @@ Thanks for reading this..
 ## I'm a Programmer, Photographer, Graphic Designer and Musician
 
 -  I’m currently learning everything including programming with C and C++
--  2020 Goals: Gaining experience in prgramming and making some awesome friends:blush:
+-  2021 Goals: Gaining experience in prgramming and making some awesome friends:blush:
 -  Fun fact: I love to make music :notes::musical_keyboard::drum:
 
 
