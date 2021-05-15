@@ -1,7 +1,7 @@
 ### Hi there I'm Rohit:wave:
 
 I'm currently pursuing my B.Tech in CSE at [KIIT University](https://kiit.ac.in/) and would be graduating in 2023:vulcan_salute:
-I have a great interest in Graphics Designing and Photography.
+I have a great interest in Programming, Graphics Designing and Photography.
 You can also visit my LinkedIn page(Link given Below) to know more about me.
 Thanks for reading this..
 
