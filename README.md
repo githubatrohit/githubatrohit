@@ -8,8 +8,7 @@ Thanks for reading this..
 
 ## I'm a Programmer, Photographer, Graphic Designer and Musician
 
--  I’m currently learning everything including programming with C and C++
--  2021 Goals: Gaining experience in prgramming and making some awesome friends:blush:
+Self-driven and motivated Computer Science student adept at C and C++ programming language. Possessing great analytical skills, problem solving skills and very strong background in Data Structures and Algorithms. Ability to work in team environments, having good communication skills and strong attention to details. Currently, I am looking for role as an Intern in the Software Industry.
 -  Fun fact: I love to make music :notes::musical_keyboard::drum:
 
 
@@ -28,5 +27,5 @@ Thanks for reading this..
 <br>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mafiamamba&show_icons=true&theme=dracula"/>
+<img src="https://github-readme-stats.vercel.app/api?username=githubatrohit&show_icons=true&theme=dracula"/>
 </div>
