@@ -21,9 +21,12 @@ Self-driven and motivated Computer Science student adept at C and C++ programmin
 
 ### Languages and Tools:
 
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
-<img align="left" alt="Python" width="32px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fhub.docker.com%2F_%2Fpython&psig=AOvVaw2NN8oOMWV7v4qkbain20KT&ust=1637777836168000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOD-44KMr_QCFQAAAAAdAAAAABAD" />
+<img align="left" alt="C++" width="32px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
+<img align="left" alt="Python" width="32px" src="https://d1q6f0aelx0por.cloudfront.net/product-logos/library-python-logo.png" />
+<img align="left" alt="Jupyter" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/800px-Jupyter_logo.svg.png" />
 <img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+
 
 <br>
 
