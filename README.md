@@ -1,9 +1,9 @@
 ### Hi there I'm Rohit:wave:
 
-I'm currently pursuing my B.Tech in CSE at [KIIT University](https://kiit.ac.in/) and would be graduating in 2023:vulcan_salute:
+I'm currently pursuing my B.Tech in CS&SE at [KIIT University](https://kiit.ac.in/) and would be graduating in 2023:vulcan_salute:
 I have a great interest in Programming, Graphics Designing and Photography.
 You can also visit my LinkedIn page(Link given Below) to know more about me.
-Thanks for reading this..
+Thanks for reading this...
 
 
 ## I'm a Programmer, Photographer, Graphic Designer and Musician
@@ -22,6 +22,7 @@ Self-driven and motivated Computer Science student adept at C and C++ programmin
 ### Languages and Tools:
 
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
+<img align="left" alt="Python" width="32px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fhub.docker.com%2F_%2Fpython&psig=AOvVaw2NN8oOMWV7v4qkbain20KT&ust=1637777836168000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOD-44KMr_QCFQAAAAAdAAAAABAD" />
 <img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <br>
