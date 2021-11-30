@@ -34,7 +34,7 @@ Currently, I am looking for role as an Intern in the Software Industry.
 
 
 ### Stats:
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=githubatrohit&layout=compact)
 ![trophy](https://github-profile-trophy.vercel.app/?username=githubatrohit&theme=onedark&margin-w=5&no-frame=true)
 <img align="left" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=githubatrohit&show_icons=true&theme=dracula"/>
 <br />
