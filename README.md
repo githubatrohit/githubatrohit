@@ -1,16 +1,15 @@
 ### Hi there I'm Rohit:wave:
-
-I'm currently pursuing my B.Tech in CS&SE at [KIIT University](https://kiit.ac.in/) and would be graduating in 2023:vulcan_salute:
-I have a great interest in Programming, Graphics Designing and Photography.
-You can also visit my LinkedIn page(Link given Below) to know more about me.
-Thanks for reading this...
+Self-driven and motivated Computer Science student adept at C++ and C programming languages and beginner at Python.
+A tech enthusiast with passion to solve problems and to make things.
+Currently, I am looking for role as an Intern in the Software Industry.
 
 
 ## I'm a Programmer, Photographer, Graphic Designer and Musician
 
-Self-driven and motivated Computer Science student adept at C++ and C programming languages and beginner at Python.
-A tech enthusiast with passion to solve problems and to make things.
-Currently, I am looking for role as an Intern in the Software Industry.
+I'm currently pursuing my B.Tech in CS&SE at [KIIT University](https://kiit.ac.in/) and would be graduating in 2023:vulcan_salute:
+I have a great interest in Programming, Graphics Designing and Photography.
+Connect with me on LinkedIn.
+
 
 -  Fun fact: I love to make music :notes::musical_keyboard::drum:
 
