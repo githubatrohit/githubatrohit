@@ -8,9 +8,10 @@ Thanks for reading this...
 
 ## I'm a Programmer, Photographer, Graphic Designer and Musician
 
-Self-driven and motivated Computer Science student adept at C++ programming language and beginner at Python.
+Self-driven and motivated Computer Science student adept at C++ and C programming languages and beginner at Python.
 A tech enthusiast with passion to solve problems and to make things.
 Currently, I am looking for role as an Intern in the Software Industry.
+
 -  Fun fact: I love to make music :notes::musical_keyboard::drum:
 
 
